@@ -8,7 +8,7 @@ The model is giving great lip-sync results.
 
 RESULTS OF WAV2LIP
 
-https://drive.google.com/drive/u/0/folders/1Ww6DISQBdYbs1ojHBYe3mS-066Rdg7vz 
+https://drive.google.com/drive/folders/1Ww6DISQBdYbs1ojHBYe3mS-066Rdg7vz?usp=sharing 
 
 For the testing of model,I first created the avatar by using a FIRST ORDER MODEL
 
