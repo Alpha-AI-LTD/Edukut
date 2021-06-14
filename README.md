@@ -63,6 +63,12 @@ Personalize the pitch of your selected voice, up to 20 semitones more or less fr
 #### Text and SSML support
 Customize your speech with SSML tags that allow you to add pauses, numbers, date and time formatting, and other pronunciation instructions.
 
+### Custom Background
+With the help of Scipy, Numpy and Pillow libraries, the removal of image background is shown.
+The trail of this model is performed on Google colab.
+However, The result is not as we expected. 
+Foreground and background are not segmented correctly .  
+We are looking forward to different deep learning approaches like Modnet Architecture, Semantic segmentation to have the required output.
 
 ## ***Thank you***
 ***Team Edukut***
