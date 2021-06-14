@@ -15,7 +15,7 @@ For the testing of model,I first created the avatar by using a FIRST ORDER MODEL
 Then I applied wav2lip+gan on the output of FIRST ORDER MODEL to determine the quality of lip sync
 
 # Text to Speech
-By ***Nitesh Ranjan Singh***
+
 Click [here](https://1drv.ms/w/s!AizJCnD-csnlmpBn6wqHSzadf1LF8Q?e=57kfiL) to go to my research work.
 
 Click [here](https://1drv.ms/u/s!AizJCnD-csnlmpBo8c_Q71cYR7Lafg) For Python Code using IBM Watson.
