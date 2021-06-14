@@ -1,0 +1,3 @@
+For collection of dataset and conversion from MP4 to PNG file repo used is https://github.com/AliaksandrSiarohin/video-preprocessing
+For conversion of low resolution image to high resolution image we will be using super resolution and we refered to https://github.com/LoSealL/VideoSuperResolution/blob/master/Docs/CookBook/2.%20Building%20data%20pipeline%20with%20DataLoader.ipynb
+Training code for fOM and config files were modified to fit on high resolution data.
