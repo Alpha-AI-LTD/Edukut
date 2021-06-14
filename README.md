@@ -21,7 +21,8 @@ There are several APIs available to convert text to speech in Python. One of suc
 ### using IBM Watson
 IBM Watson Text to Speech gives your brand a voice, enabling you to improve customer experience and engagement by interacting with users in their own languages using any written text. Increase accessibility for users with different abilities, provide audio options to avoid distracted driving, or automate customer service interactions to increase efficiencies.
 
-***Powerful real-time speech synthesis***
-***Create Custom Voices***
+ ***Powerful real-time speech synthesis***
+
+ ***Create Custom Voices***
 
 
