@@ -1,0 +1,78 @@
+
+    .rowu {
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+    .columnu {
+        float: left;
+        width: 31%;
+        color: #3182ce;
+        background-color: white;
+        margin-top: 7px;
+        margin-left: 10px;
+        border-radius: 10px;
+    }
+    #banner{
+        background:url(./banner.jpg);
+        background-size: full;
+        background-position: center;
+        height:calc(100vh - 60px) ;
+    }
+    
+
+    .header{
+        background: rgb(23, 180, 107);
+        padding:10px 40px 10px 0;
+        height: 75px;
+    }
+    .header ul li a{
+        color: whitesmoke;
+    }
+    .tittle{
+        color: whitesmoke;
+        padding: 10px 10px 0;
+    }
+    .banner-text{
+        text-align: center;
+        color: rgb(25, 44, 153);
+        padding-top: 180px;
+    }
+    .banner-text h1{
+    font-size: 130px;
+    }
+    .text-box{
+        text-align: center;
+        margin: auto;
+        align-items: center;
+    }
+    
+    input{
+        border: 3px solid #32e17c;
+        height: 40px;
+        width:20%;
+        border-radius: 50px;
+        padding: 0px 10px;
+        /* float: left; */
+    }
+    .data{
+        margin: auto;
+    }
+    .but{
+        margin:10px;
+        line-height: 20px;
+        border-radius: 20px;
+        padding:10px 20px;
+    }
+    
+    button{
+        background: #2ccd78;
+        color:white;
+        padding:0 10px;
+        letter-spacing: 1.2px;
+        border:none;
+    
+    
+    }
+    
+    

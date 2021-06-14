@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='design.css') }}">
+    <title>{{title}}</title>
+</head>
+
+<body >
+    <div class="header">
+        <div class="left">
+            <img src="image/banner.jpg" class="banner"> 
+        </div>
+    <header class="container-fluid header">
+        <div class="container">
+        <a href="#">
+            <img class="float-left" src="../static/logo.png" alt="logo" width="160" height="auto">
+        </a>
+        <h4 class="float-left tittle">Edukut</h4>
+        
+          <ul class="nav float-right">
+            <li class="nav-item">
+                <a class="nav-link active" href="{{ url_for('view_text_page') }}">Enter your text</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="{{ url_for('view_avatar_page') }}">Pick an Avatar</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link active" href="{{ url_for('view_customize_page') }}">Customize</a>
+            </li>
+        </ul>
+    </div>
+    </header>
+    <section id="banner">
+         
+           
+        <div class="banner-text">
+            <h1> EDUKUT </h1>
+           </div> 
+<div class="data">
+           <div class="text-box">
+           <input type="text" name="" placeholder="Enter your text here">
+           <div>
+               <a href="">
+                   <button class="but"> Submit</button>
+               </a>
+               <a href="{{ url_for('view_avatar_page') }}" >Go to avatar page</a>
+              
+
+           </div>
+            </div>
+           </div> 
+        </section>
+   
+    
+
+  
+  
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+</html>
