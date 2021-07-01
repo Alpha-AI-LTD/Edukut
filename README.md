@@ -1,5 +1,12 @@
 # **RASA** - Contextual Conversations
 
+*Rasa is an open source machine learning framework for automated text and voice-based conversations. Understand messages, hold conversations, and connect to messaging channels and APIs.*
+
+In a contextual conversation, something beyond the previous step in the conversation plays a role in what should happen next. For example, if a user asks "How many?", it's not clear from the message alone what the user is asking about. In the context of the assistant saying, "You've got mail!", the response could be "You have five letters in your mailbox". In the context of a conversation about outstanding bills, the response could be, "You have three overdue bills". The assistant needs to know the previous action to choose the next action.
+
+
+
+
 
 # wav2lip
 This file contains the trained model of wav2lip+gan for lip sync.
