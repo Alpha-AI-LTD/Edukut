@@ -1,0 +1,5 @@
+Kindly, request for access by email if this drive folder isn't accessible to you:
+
+Kindly, ensure to have git-lfs installed so that working with large files in this directory will be easy.
+
+Drive Link: https://drive.google.com/drive/folders/11AKkHTDhNgcrZrr9_BAcicmlf63-gmyY

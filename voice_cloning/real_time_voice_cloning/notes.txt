@@ -1,0 +1,19 @@
+0. https://github.com/noicevice/awesome-voice-cloning - Voice cloning awesome
+
+1. https://github.com/L0SG/WaveFlow  - WaveFlow a WaveRNN alternative
+
+2. https://github.com/vlomme/Multi-Tacotron-Voice-Cloning - A Multi-Tacotron voice cloning (alternative to Real time voice cloning) uses TacoTron2
+
+3. https://github.com/deterministic-algorithms-lab/Cross-Lingual-Voice-Cloning -  Cross lingual voice cloning utlizing WaveGlow & TacoTron2
+
+4. https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples - Neural voice cloning with a few samples (archive version)
+
+5. https://github.com/IEEE-NITK/Neural-Voice-Cloning - Neural voice cloning with few voice samples
+
+6. https://github.com/VisionBrain/Neural_Voice_Cloning - Baidu's voice cloning
+
+7. https://github.com/KuangDD/zhrtvc - Chinese real-time voice cloning
+
+8. https://github.com/CorentinJ/Real-Time-Voice-Cloning - The classic paper & repo
+
+9. https://github.com/resemble-ai/Resemblyzer - A voice encoder package
